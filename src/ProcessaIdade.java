@@ -19,5 +19,5 @@ public class ProcessaIdade {
 					System.out.println("Maior de idade");
 				}
 
-}
+	}
 }
